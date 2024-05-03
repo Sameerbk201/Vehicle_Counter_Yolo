@@ -55,6 +55,15 @@ The script performs the following steps:
    - Tracks filtered objects using SORT.
    - Displays the video stream with tracked objects and counts their occurrences.
 
+
+## Reference
+
+for more details please check
+```bash
+https://www.youtube.com/@murtazasworkshop
+https://www.youtube.com/watch?v=WgPbbWmnXJ8
+```
+
 ## Notes
 
 - You may need to adjust the paths to the YOLO model weights (`yolov8l.pt`) and mask image (`mask0.png`) as per your directory structure.
